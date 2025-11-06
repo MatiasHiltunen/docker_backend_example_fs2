@@ -1,18 +1,10 @@
-
-
-
-![alt text](image.png)
-
-![alt text](image-1.png)
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
-
-
-
 # CSC
+
+## Opiskelijaprojektin luominen
+
+Kirjaudu HAKA-tunnistautumisen kautta opiskelijatunnuksilla:
+
+https://my.csc.fi/welcome
 
 ![alt text](image-4.png)
 
@@ -95,9 +87,10 @@ Kun Floating IP on luotu, klikkaa `associate` ja kytke luotu IP-osoite luomaasi 
 
 ![alt text](image-26.png)
 
-![alt text](image-27.png)
 
-```
+PowerShell SSH-clientin käyttö Windowsilla ja .pem tiedoston lisääminen ja salaaminen salasanalla:
+
+``` ps1
 PS C:\Users\<your_user>\Downloads> ls *.pem
 
 
